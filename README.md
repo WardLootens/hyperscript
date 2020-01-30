@@ -1,6 +1,6 @@
 This is is a fork of [hyperscript/hyperscript](https://github.com/hyperhype/hyperscript).
 
-This fork used `webpack` to create a `hyperscript.js` files that can be used standalone in the browser.
+This fork provides a downloadable [hyperscript.js](https://github.com/WardLootens/hyperscript/releases/download/v1.0/hyperscript.js) that can be used standalone in the browser.
 
 ---
 
