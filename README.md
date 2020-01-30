@@ -1,3 +1,9 @@
+This is is a fork of [hyperscript/hyperscript](https://github.com/hyperhype/hyperscript).
+
+This fork used `webpack` to create a `hyperscript.js` files that can be used standalone in the browser.
+
+---
+
 # HyperScript
 
 Create HyperText with JavaScript, on client or server.
